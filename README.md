@@ -28,3 +28,6 @@ The extension uses HTML DOM with Javascript to look for the `pre` tags on the an
 
 ## Future Improvements
 In the future, support could be added for additional sites, such as the [Oracle Documentation for Java](https://docs.oracle.com/en/java/) or [MDN Web Docs for Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), etc. Additionally, adding an `options.js` could be used to allow users to temporarily disable (toggle) the extension.
+
+## Found a bug? Have an improvement?
+If you find a bug or have any idea for an improvement, feel free to reach out to me or open an issue. This project is open under the MIT License, so feel free to fork the code and modify it in any way you see fit!
