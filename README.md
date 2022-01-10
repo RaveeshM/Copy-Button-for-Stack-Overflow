@@ -1,6 +1,6 @@
 # Copy-Button-for-Stack-Overflow
 ### A simple Chrome Extension that adds a copy to clipboard button to Stack Overflow code blocks
-This extension adds a small copy button to all Stack Overflow sites that copies text with formatting from pre-formatted code blocks. This saves time copying copying code that could be inconvenient to type out (e.g. long terminal commands) or copy without exact formatting (e.g. Python code).
+This extension adds a small copy button to Stack Overflow posts which copies code from code blocks into the clipboard. This saves time copying code that could be inconvenient to type out (e.g. long terminal commands) or copy without exact formatting (e.g. nested Python code).
 
 ![](https://github.com/RaveeshM/Copy-Button-for-Stack-Overflow/blob/main/example-use.png)
 
